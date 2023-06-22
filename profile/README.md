@@ -1,8 +1,10 @@
 ![Tekeezy LOGO](https://tekeezy.com.br/assets/images/logo/logo-web-horizontal-fundo-transparente-01.png)
 
-Olá somos a Tekeezy! 
+Olá somos a [Tekeezy](https://tekeezy.com.br/)!
 
 Uma empresa de desenvolvimento de software que oferece soluções tecnológicas personalizadas e inovadoras.
+
+Acesse nosso site [https://tekeezy.com.br](https://tekeezy.com.br) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tekeezy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/tekeezy/)](https://www.linkedin.com/company/tekeezy/)
 [![Instagram Badge](https://img.shields.io/badge/-Tekeezy-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tekeezyofficial/)](https://www.instagram.com/tekeezyofficial/)
